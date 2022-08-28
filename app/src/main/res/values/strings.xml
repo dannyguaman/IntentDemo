@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMaps</string>
+    <string name="showMap">Mostrar Mapa</string>
+    <string name="prompt">Por favor, presione el botón de acción flotante para agregar una dirección"</string>
+</resources>
